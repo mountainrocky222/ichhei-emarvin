@@ -1,0 +1,16 @@
+body.standard {
+    background: linear-gradient(to bottom, #fff3b0, #a8e6cf);
+}
+
+body.sunset {
+    background: linear-gradient(to bottom, #ff9a9e, #fad0c4);
+}
+
+body.nature {
+    background: linear-gradient(to bottom, #c2e9fb, #81a4fd);
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    animation: fadePage 1s ease;
+}
